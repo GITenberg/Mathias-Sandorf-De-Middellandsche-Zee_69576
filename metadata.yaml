@@ -1,0 +1,36 @@
+_repo: Mathias-Sandorf-De-Middellandsche-Zee_69576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Gyula
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Verne
+    - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
+    - https://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69576'
+language: nl
+pgterms:marc905: 20201029140911verne
+pgterms:marc906: '1917'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: Uitgevers-Maatschappij "Elsevier",1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mathias Sandorf: De Middellandsche Zee'
+url: http://www.gutenberg.org/ebooks/69576
