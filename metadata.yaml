@@ -1,5 +1,8 @@
 _repo: Mathias-Sandorf-De-Middellandsche-Zee_69576
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69576-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -17,6 +20,8 @@ creator:
     - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
     - https://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69576#Mathias-Sandorf-De-Middellandsche-Zee
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69576'
